@@ -1,0 +1,49 @@
+/* Footer Styles */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 8rem;
+  background-color: var(--body-color);
+  border-top: 0.5px solid rgba(73, 52, 52, 0.1);
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-left {
+  font-size: var(--smaller-font-size);
+  color: var(--text-color);
+}
+
+
+.footer-right {
+  display: flex;
+  align-items: center;
+}
+
+.footer-right ul {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.footer-right li {
+  display: flex;
+  align-items: center;
+}
+
+.footer-right li a {
+  font-size: var(--normal-font-size);
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: color 0.3s ease;
+}
+
+.footer-right li a:hover {
+  color: var(--first-color); /* You can change this to any color you prefer */
+}
+
+.footer-right li a i {
+  font-size: 1.2rem; /* Adjust the icon size */
+}
