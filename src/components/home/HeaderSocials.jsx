@@ -16,7 +16,7 @@ const HeaderSocials = () => {
         <i className="fa-solid fa-code"></i>        
         </a>
 
-        <a href="" className="home_social-link" target='blank'>
+        <a href="https://drive.google.com/file/d/1faIpnCeeng6vi8jaCw1WHSGsp7VC87ga/view" className="home_social-link" target='blank'>
         <i className="fa-solid fa-file"></i>       
         </a>
 
