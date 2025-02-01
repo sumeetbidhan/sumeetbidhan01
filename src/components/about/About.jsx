@@ -13,7 +13,7 @@ const About = () => {
         <div className="about_data grid">
           <div className="about_info">
             <p className="about_description">Welcome to my website! I’m a passionate Fullstack Developer with over 1 year of hands-on experience. I thrive on  crafting robust, user-friendly web applictions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.</p>
-            <a href="" className="btn">Download CV</a>
+            <a href="https://drive.google.com/file/d/1faIpnCeeng6vi8jaCw1WHSGsp7VC87ga/view" className="btn">Download CV</a>
           </div>
           <div className="about_skills grid">
             <div className="skills_data">
