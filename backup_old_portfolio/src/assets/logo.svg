@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32px"
+   height="26px"
+   viewBox="0 0 32 26"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient33"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#1b14e6;stop-opacity:1;"
+         offset="0.28499371"
+         id="stop32" />
+      <stop
+         style="stop-color:#1697e6;stop-opacity:0;"
+         offset="1"
+         id="stop33" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient30"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#171fe6;stop-opacity:1;"
+         offset="0.07313997"
+         id="stop30" />
+      <stop
+         style="stop-color:#6220e6;stop-opacity:0;"
+         offset="1"
+         id="stop31" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <rect
+         style="fill:#282642;stroke-width:13.5486;stroke-linejoin:bevel;paint-order:normal"
+         id="rect3"
+         width="9.1590261"
+         height="7.7288136"
+         x="67.298698"
+         y="79.576271" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient30"
+       id="linearGradient31"
+       x1="18.036021"
+       y1="11.011708"
+       x2="35.157449"
+       y2="11.011708"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient33"
+       id="linearGradient32"
+       x1="0.82859495"
+       y1="11.02354"
+       x2="17.748182"
+       y2="11.02354"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.375"
+     inkscape:cx="15.932203"
+     inkscape:cy="13.016949"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="302"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+  <title
+     id="title1">B</title>
+  <desc
+     id="desc1">Created with Sketch.</desc>
+  <g
+     id="Symbols"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="matrix(0.95441166,0,0,1,31.007572,-22.779661)">
+    <g
+       id="header-2-copy-7"
+       transform="matrix(0.55841288,0,0,1,-41.228937,-38.220339)"
+       fill-rule="nonzero"
+       clip-path="url(#clipPath2)">
+      <g
+         id="header-2">
+        <g
+           id="header">
+          <g
+             id="B."
+             transform="translate(44.448,61.8)">
+            <path
+               d="m 12.348,25.2 c 2.976,0 5.262,-0.672 6.858,-2.016 1.596,-1.344 2.394,-3.228 2.394,-5.652 0,-1.248 -0.336,-2.37 -1.008,-3.366 -0.672,-0.996 -1.5,-1.71 -2.484,-2.142 0.744,-0.384 1.422,-0.996 2.034,-1.836 C 20.754,9.348 21.06,8.352 21.06,7.2 21.06,4.896 20.316,3.12 18.828,1.872 17.34,0.624 15.072,0 12.024,0 V 0 H 0.9 C 0.636,0 0.42,0.09 0.252,0.27 0.084,0.45 0,0.672 0,0.936 v 0 23.364 c 0,0.24 0.09,0.45 0.27,0.63 0.18,0.18 0.39,0.27 0.63,0.27 v 0 z M 11.268,9.972 h -4.5 V 4.86 h 4.5 c 0.912,0 1.602,0.234 2.07,0.702 0.468,0.468 0.702,1.074 0.702,1.818 0,0.768 -0.24,1.392 -0.72,1.872 -0.48,0.48 -1.164,0.72 -2.052,0.72 z M 11.592,20.34 H 6.768 v -5.652 h 4.824 c 0.912,0 1.632,0.27 2.16,0.81 0.528,0.54 0.792,1.218 0.792,2.034 0,0.792 -0.258,1.458 -0.774,1.998 -0.516,0.54 -1.242,0.81 -2.178,0.81 z"
+               id="B"
+               fill="#282642" />
+            <path
+               d="m 30.42,25.2 c 0.264,0 0.48,-0.09 0.648,-0.27 0.168,-0.18 0.252,-0.39 0.252,-0.63 v 0 -4.752 c 0,-0.264 -0.084,-0.486 -0.252,-0.666 -0.168,-0.18 -0.384,-0.27 -0.648,-0.27 v 0 h -4.752 c -0.264,0 -0.486,0.09 -0.666,0.27 -0.18,0.18 -0.27,0.402 -0.27,0.666 v 0 4.752 c 0,0.264 0.09,0.48 0.27,0.648 0.18,0.168 0.402,0.252 0.666,0.252 v 0 z"
+               id="."
+               fill="#ff4c60" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:27.2202px;font-family:'.Beirut PUA';-inkscape-font-specification:'.Beirut PUA Bold';mix-blend-mode:darken;fill:#21015d;fill-opacity:1;stroke:none;stroke-width:10.0963;stroke-linejoin:bevel;paint-order:normal"
+     x="-0.62013638"
+     y="20.918774"
+     id="text1"
+     transform="scale(0.81701897,1.2239618)"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="-0.62013638"
+       y="20.918774"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'.CJK Symbols Fallback MO';-inkscape-font-specification:'.CJK Symbols Fallback MO Bold';stroke:none;stroke-width:10.0963;paint-order:normal;fill:#21015d;fill-opacity:1">S</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:27.5233px;font-family:'.Beirut PUA';-inkscape-font-specification:'.Beirut PUA Bold';mix-blend-mode:darken;fill:#21015d;fill-opacity:1;stroke:none;stroke-width:10.2087;stroke-linejoin:bevel;paint-order:normal"
+     x="15.48259"
+     y="21.017126"
+     id="text2"
+     transform="scale(0.80802281,1.2375888)"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="15.48259"
+       y="21.017126"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'.CJK Symbols Fallback MO';-inkscape-font-specification:'.CJK Symbols Fallback MO Bold';stroke:none;stroke-width:10.2087;paint-order:normal;fill:#21015d;fill-opacity:1">B</tspan></text>
+</svg>

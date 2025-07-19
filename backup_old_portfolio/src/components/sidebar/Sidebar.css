@@ -1,0 +1,70 @@
+/* Sidebar Styles */
+.aside {
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: var(--body-color);
+  border-right: 1px solid rgba(73, 52, 52, 0.05);
+  padding: 2.5rem;
+  width: 110px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  z-index: 10;
+}
+
+/* Dark Mode Sidebar Styles */
+body.dark-mode .aside {
+  border-right: 1px solid rgba(255, 255, 255, 0.1); /* Light border in dark mode */
+}
+
+/* Navigation list styles */
+.nav_list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
+
+/* Navigation link styles */
+.nav_link {
+  font-size: 1.5rem;
+  color: var(--title-color);
+  font-weight: var(--font-bold);
+  transition: color 0.3s ease; /* Add transition */
+}
+
+/* Hover and Active states */
+.nav_link:hover,
+.nav_link.active {
+  color: hsl(43, 71%, 65%);
+}
+
+/* Footer Styles */
+.copyright {
+  color: hsl(245, 15%, 65%);
+  font-size: var(--small-font-size);
+  transform: rotate(-180deg);
+  writing-mode: vertical-rl;
+}
+
+/* Dark Mode Toggle Styles */
+.theme-toggle {
+  margin-top: -8rem; /* Move it up a bit */
+  display: flex;
+  justify-content: center;
+}
+
+/* Toggle Icon Style */
+.theme-toggle-icon {
+  font-size: 1.8rem;
+  color: var(--title-color); /* Default color */
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.5s ease; /* Added transition for smooth rotation */
+}
+
+/* Dark Mode Styles */
+body.dark-mode .theme-toggle-icon {
+  color: #fff; /* Change color when in dark mode */
+  transform: rotate(180deg); /* Flip the icon in dark mode */
+}

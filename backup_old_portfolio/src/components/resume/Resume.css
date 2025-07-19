@@ -1,0 +1,76 @@
+/* Ensure there's more space between the buttons and subheading */
+.tab_buttons {
+  display: flex;
+  justify-content: flex-start;
+  gap: 2rem; /* Increased gap between buttons */
+  margin-bottom: 2.5rem; /* Slightly increased margin */
+}
+
+/* Resume container grid adjustments */
+.resume_container {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 2.5rem; /* Increased gap between grid items */
+  margin-top: 2rem; /* Added some space on top */
+}
+
+/* Section heading style for better alignment */
+.section_heading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--h2-font-size);
+  font-weight: var(--font-bold);
+  color: var(--text-color);
+  padding: 1rem 1.5rem; /* Added more padding for space */
+  background-color: var(--container-color); 
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+  z-index: 10;
+  transform: translateY(-50%); /* Keeps heading aligned at the top */
+  /* Removed uppercase for a more relaxed look */
+  text-transform: none; /* No uppercase styling */
+}
+
+/* Timeline styles */
+.timeline {
+  background-color: var(--container-color);
+  padding: 1.875rem;
+  border-radius: var(--border-radius);
+  position: relative;
+  box-shadow: var(--shadow);
+}
+
+/* Adjusting individual timeline items to avoid overlap with subheading */
+.timeline_item {
+  position: relative;
+  padding-left: 3.125rem;
+  padding-bottom: 3.125rem;
+}
+
+.timeline_item:last-child {
+  padding-bottom: 0;
+}
+
+.timeline_item::before {
+  content: '';
+  width: 1px;
+  height: 100%;
+  background-color: var(--first-color);
+  position: absolute;
+  left: .25rem;
+  top: 0;
+}
+
+/* Adjust icons for different categories */
+.timeline .icon-briefcase,
+.timeline .icon-graduation,
+.timeline .icon-badge {
+  position: absolute;
+  left: -0.437rem;
+  font-size: var(--h2-font-size);
+  color: var(--first-color);
+  background-color: var(--container-color);
+  padding: 0.4375rem 0;
+}
